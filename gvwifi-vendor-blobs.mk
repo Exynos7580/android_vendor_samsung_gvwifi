@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/samsung/a3xeltexx
+LOCAL_PATH := vendor/samsung/gvwifi
 
 ###########################
 # Bluetooth
